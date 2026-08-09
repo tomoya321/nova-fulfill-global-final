@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nova-fulfill-global-tomoya321s-projects.vercel.app/sitemap.xml
