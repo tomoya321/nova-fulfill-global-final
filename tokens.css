@@ -1,0 +1,61 @@
+:root {
+  --color-paper: oklch(94% 0.012 78);
+  --color-paper-2: oklch(91% 0.014 78);
+  --color-paper-3: oklch(87% 0.016 76);
+  --color-ink: oklch(17% 0.014 245);
+  --color-ink-2: oklch(25% 0.016 245);
+  --color-rule: oklch(77% 0.014 78);
+  --color-rule-2: oklch(84% 0.013 78);
+  --color-muted: oklch(44% 0.016 245);
+  --color-neutral: oklch(34% 0.015 245);
+  --color-accent: oklch(50% 0.17 38);
+  --color-accent-ink: oklch(97% 0.010 78);
+  --color-focus: oklch(58% 0.20 38);
+  --color-error: oklch(50% 0.18 25);
+  --color-success: oklch(43% 0.10 150);
+
+  --font-display: "Newsreader", "Songti SC", "STSong", serif;
+  --font-body: "IBM Plex Sans", "PingFang SC", "Microsoft YaHei", sans-serif;
+  --font-outlier: "IBM Plex Sans", "PingFang SC", "Microsoft YaHei", sans-serif;
+  --font-cjk: "PingFang SC", "Microsoft YaHei", sans-serif;
+
+  --space-3xs: 0.25rem;
+  --space-2xs: 0.5rem;
+  --space-xs: 0.75rem;
+  --space-sm: 1rem;
+  --space-md: 1.5rem;
+  --space-lg: 2rem;
+  --space-xl: 3rem;
+  --space-2xl: 4.5rem;
+  --space-3xl: 7rem;
+  --space-4xl: 10rem;
+  --space-5xl: 14rem;
+
+  --text-xs: 0.75rem;
+  --text-sm: 0.875rem;
+  --text-md: 1rem;
+  --text-lg: 1.25rem;
+  --text-xl: 1.75rem;
+  --text-2xl: 2.5rem;
+  --text-3xl: 3.5rem;
+  --text-display-s: clamp(3.25rem, 6vw, 6.5rem);
+  --text-display: clamp(4rem, 8vw, 8.75rem);
+
+  --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-in: cubic-bezier(0.7, 0, 0.84, 0);
+  --ease-in-out: cubic-bezier(0.65, 0, 0.35, 1);
+  --dur-micro: 120ms;
+  --dur-short: 220ms;
+  --dur-long: 520ms;
+
+  --rule-hair: 1px;
+  --rule-fine: 2px;
+  --radius-card: 0;
+  --radius-pill: 0;
+  --radius-input: 0;
+  --shadow-card: none;
+  --wrap-wide: 1380px;
+  --wrap-copy: 760px;
+  --nav-height: 4.5rem;
+  --nav-rail-height: 2.75rem;
+}

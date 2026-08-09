@@ -1,0 +1,10 @@
+{
+  "date": "2026-08-09",
+  "framework": "vanilla-html",
+  "routes": 31,
+  "font_stack_before": ["Instrument Serif", "Manrope", "IBM Plex Mono"],
+  "palette_before": "OKLCH custom properties in style.css",
+  "motion_before": "IntersectionObserver fade-up; no motion library",
+  "spacing_before": "mixed raw values",
+  "assets": "no production photography or logo assets"
+}
